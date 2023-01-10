@@ -1,0 +1,26 @@
+name: textlint
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  textlint:
+    name: textlint
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+          cache: npm
+          cache-dependency-path: ./package-lock.json
+
+      - name: prepare
+        run: |
+          npm install
+
+      - name: run
+        run: |
+          npx textlint articles/* README.md

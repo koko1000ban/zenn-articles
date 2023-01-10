@@ -1,0 +1,17 @@
+{
+  "name": "tech-blog-zenn-boilerplate",
+  "version": "1.0.0",
+  "private": "true",
+  "scripts": {
+    "dev": "npx zenn preview",
+    "lint": "textlint articles/* README.md",
+    "lint:fix": "textlint --fix articles/* README.md"
+  },
+  "author": "Offers Developers",
+  "devDependencies": {
+    "textlint": "^12.2.1",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-preset-overflow-techblog": "^0.0.2",
+    "zenn-cli": "^0.1.134"
+  }
+}
