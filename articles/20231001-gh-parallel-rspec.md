@@ -31,7 +31,7 @@ publication_name: overflow_offers
 この中の `Backend の UnitTest(RSpec)` が、モデル & ロジック数の増加によって 35min 以上かかるようになってきたという状況です。
 
 
-# 対応
+# テスト時間の短縮を試みる
 
 このように、テスト時間が長い時に対応として考えることは、以下です。
 
