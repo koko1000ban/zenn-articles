@@ -3,7 +3,8 @@ title: "月$12を払うか、1700分を浮かすか - テストを実行時間�
 emoji: "😸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["rspec", "ruby", "GithubActions"]
-published: false
+published: true
+published_at: 2023-10-10 09:00
 publication_name: overflow_offers
 ---
 
