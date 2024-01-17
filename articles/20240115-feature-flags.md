@@ -1,5 +1,5 @@
 ---
-title: "フィーチャーフラグ（Feature Flag）でアジリティあげ - 導入時の技術選定と運用観点"
+title: "フィーチャーフラグ（Feature Flag）でアジリティあげ - 導入時の技術選定と運用観点 | Offers Tech Blog"
 emoji: "🐡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['featureflag']
