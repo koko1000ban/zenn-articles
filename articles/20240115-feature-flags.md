@@ -3,7 +3,8 @@ title: "フィーチャーフラグ（Feature Flag）でアジリティあげ - 
 emoji: "🐡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['featureflag']
-published: false
+published: true
+published_at: 2024-01-24 10:00
 publication_name: overflow_offers
 ---
 
