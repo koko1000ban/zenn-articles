@@ -12,7 +12,9 @@ publication_name: overflow_offers
 [ofmsurl]: https://offers-mgr.com/
 [overflow]: https://overflow.co.jp
 
-こんにちは、プロダクト開発人材の副業転職プラットフォーム [Offers][offersurl] を運営する株式会社 [overflow][overflow] CTO の大谷旅人です。
+<!-- textlint-disable overflow-techblog/ja-space-between-half-and-full-width -->
+こんにちは、AI時代にあなたの可能性を最大化する転職プラットフォーム [Offers][offersurl] を運営する株式会社 [overflow][overflow] CTO の大谷旅人です。
+<!-- textlint-enable overflow-techblog/ja-space-between-half-and-full-width -->
 
 今回は「[Offers MGR(オファーズマネージャー) ][ofmsurl]」にフィーチャーフラグ（Feature Flag）機構を導入した際の選定視点含むアレコレについてお話していきます。
 

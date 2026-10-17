@@ -11,8 +11,10 @@ publication_name: overflow_offers
 [offersurl]: https://offers.jp
 [overflow]: https://overflow.co.jp
 
-こんにちは、プロダクト開発人材の副業転職プラットフォーム [Offers][offersurl] を運営する株式会社 [overflow][overflow] CTO の大谷旅人です。
+<!-- textlint-disable overflow-techblog/ja-space-between-half-and-full-width -->
+こんにちは、AI時代にあなたの可能性を最大化する転職プラットフォーム [Offers][offersurl] を運営する株式会社 [overflow][overflow] CTO の大谷旅人です。
 今回は、CI(GitHub Actions)上のテストにかかる時間が長く、リリース時にテスト完了待ちで無駄な時間が発生しているというありがちな問題に対して、ワークフローだけ弄って 3 分でテスト時間半分にした結果改善されたのでそんなお話を。
+<!-- textlint-enable overflow-techblog/ja-space-between-half-and-full-width -->
 
 # リリースまでのフローと課題
 
